@@ -6,7 +6,12 @@ The carpenter having only 2 tools, can make limited furniture. Similarly, if you
 
 It is at most essential to learn some of the tools.  
 
-
 #### Tools:  
-- [INTRODUCTION TO THE COMMAND LINE](https://launchschool.com/books/command_line)
-- [INTRODUCTION TO GIT AND GITHUB](https://launchschool.com/books/git])
+- [INTRODUCTION TO THE COMMAND LINE](https://launchschool.com/books/command_line)  
+  To learn these tools, you will need an unix flavoured machine.  
+  Get a [free ubuntu](http://bit.ly/freeubuntu) machine.  
+- [INTRODUCTION TO GIT AND GITHUB](https://launchschool.com/books/git])  
+  For windows machine you can install [git-scm](https://git-scm.com/download).  
+  
+Wish you all the best to learn these tools.  
+
