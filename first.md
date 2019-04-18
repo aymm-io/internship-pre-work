@@ -8,5 +8,5 @@ It is at most essential to learn some of the tools.
 
 
 #### Tools:  
-- [INTRODUCTION TO THE COMMAND LINE] (https://launchschool.com/books/command_line)
-- [INTRODUCTION TO GIT AND GITHUB] (https://launchschool.com/books/git])
+- [INTRODUCTION TO THE COMMAND LINE](https://launchschool.com/books/command_line)
+- [INTRODUCTION TO GIT AND GITHUB](https://launchschool.com/books/git])
